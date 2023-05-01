@@ -69,11 +69,15 @@ This section should provide instructions on how to deploy your smart contracts t
 
 ### Deploying Smart Contracts
 
-To deploy your smart contracts, run the following command:
+To deploy your smart contracts, run the following command
+
+Deploy on testnet:
 
 ```shell
 npx hardhat run scripts/deploy.js --network polygonZKEVMTestnet
 ```
+Deploy on mainnet:
+
 ```shell
 npx hardhat run scripts/deploy.js --network polygonZKEVMMainnet
 ```
