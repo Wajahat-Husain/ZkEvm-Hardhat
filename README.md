@@ -1,6 +1,6 @@
 # ZkEvm-Hardhat
 
-This project is a boilerplate to kickstart your smart contract development using the Hardhat development environment. It includes a basic structure and some sample smart contracts, tests, and scripts to help you get started quickly and efficiently.
+This repository provides an example setup for deploying and verifying smart contracts on the ZkEVM testnet using the Hardhat framework. It includes instructions for adding a custom chain in the Hardhat config, using the Etherscan API to view contract information, and utilizing the Blockscout block explorer API for contract verification.
 
 ## Table of Contents
 
